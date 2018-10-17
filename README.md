@@ -1,1 +1,1 @@
-# python_class
+This is a playground to learn Python.
